@@ -49,8 +49,11 @@ customer         | customer_id
 
 Ответ:
 
-![alt text](https://github.com/vmmaltsev/12.2/blob/main/PrimaryKey.xlsx)
+![PrimaryKey.xlsx](https://github.com/vmmaltsev/12.2/blob/main/PrimaryKey.xlsx)
 
+
+
+---
 Название таблицы | Название первичного ключа
 actor            | actor_id
 
